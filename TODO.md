@@ -1,0 +1,7 @@
+-   [ ] `batch` method for orm.insert
+-   [ ] test `add` and `insert` for `IndexedDbAdapter`
+-   [ ] add better errors handling
+-   [ ] add constants for errors?
+-   [x] add ability to use multiple where statements
+-   [x] rename everything everywhere to rows or records or values
+-   [x] add better return type than QueryResult
